@@ -29,7 +29,15 @@ const quizData = [{
     c: "Jason Object Notation",
     d: "Helicopters Terminals Motorboats Lamborginis",
     correct: "b",
-}
+},
+{
+    question:"What is full form of CPU?",
+    a:"Central Processing Unit",
+    b:"Center Process unit",
+    c:"Common Power Unit",
+    d:"Conjugate Power Unique",
+    correct: "a",
+}    
 ];
 let index=0;
 let right=0;
